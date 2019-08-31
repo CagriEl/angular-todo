@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hello';
+  todos = [
+    'yapılacak iş var'
+  ];
 }
